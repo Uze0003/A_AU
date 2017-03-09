@@ -1,3 +1,3 @@
 # A_AU
 
-exm
+This repository contains PCB CAD course homework of Abdurrahman UZEL
